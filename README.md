@@ -52,7 +52,5 @@
 ### Name: RAVIVARMAN G S
 ### Register Number: 23006420
 
-
-
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
